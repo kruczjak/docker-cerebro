@@ -1,4 +1,4 @@
-FROM openjdk:8-jre
+FROM openjdk:10-jre
 
 ENV CEREBRO_VERSION 0.7.3
 RUN cd /opt/ \
